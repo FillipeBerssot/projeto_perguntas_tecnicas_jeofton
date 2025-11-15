@@ -107,6 +107,7 @@ sudo apt install php8.1-sqlite3   # ajuste a versão conforme seu PHP
 ```bash
 php scripts/create_db.php
 ```
+Caso o comando não funcionar - Crie a pasta data na raiz e rode novamente.
 > Isso cria `data/app.sqlite` e popula 20 perguntas por combinação suportada.
 
 2) **Subir o servidor de dev**:
