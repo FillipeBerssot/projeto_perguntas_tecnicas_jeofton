@@ -1,0 +1,4 @@
+# banco SQLite e arquivos temporários
+data/*.sqlite
+*.log
+.DS_Store
